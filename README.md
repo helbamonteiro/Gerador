@@ -26,6 +26,8 @@ Este projeto consiste em um gerador de senha aleatória desenvolvido utilizando 
 4. Clique no botão "Gerar Senha" para ver a senha aleatória gerada.
 5. Clique no botão "Copiar" para copiar a senha para a área de transferência.
 
+ACESSE PELO LINK 👉 https://helbamonteiro.github.io/Gerador-de-senhas/
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests para tornar este gerador de senha ainda mais robusto e amigável.
